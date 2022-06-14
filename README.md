@@ -1,2 +1,2 @@
 # Simulacion
-Trabajos 5to semestre Maestro Aviña
+Regresion Lineal Simple con Agentes JADE
